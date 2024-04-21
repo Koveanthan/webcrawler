@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Profiles all internal linking within the given site",
     "scripts": {
-        "start": "node main.js",
+        "start": "node src/main.js",
         "test": "jest"
     },
     "author": "koveanthanpon",
